@@ -19,7 +19,7 @@ Most of the time I want to show you some text, its coming from my current
 console session.  We should make it really easy to take code from the console
 and send it to people.
 
-`cat something | haste` # http://hastebin.com/1238193
+`cat something | haste` # https://pastebin.vn/1238193
 
 You can even take this a step further, and cut out the last step of copying the
 URL with:
@@ -40,13 +40,6 @@ right now.
 
 Pastes will stay for 30 days from their last view.  They may be removed earlier
 and without notice.
-
-## Privacy
-
-While the contents of hastebin.com are not directly crawled by any search robot
-that obeys "robots.txt", there should be no great expectation of privacy.  Post
-things at your own risk. Not responsible for any loss of data or removed
-pastes.
 
 ## Open Source
 
